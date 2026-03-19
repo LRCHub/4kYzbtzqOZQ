@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "少年ブレイヴ",
+  "base_artist": "じん",
+  "createdAt": "2026-03-19T09:16:31.588090Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "少年ブレイヴ",
+      "artist": "じん",
+      "has_synced": false,
+      "path": "select/pl_01_少年ブレイヴ_じん.txt"
+    }
+  ]
+}
